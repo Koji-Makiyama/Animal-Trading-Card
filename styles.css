@@ -1,0 +1,32 @@
+h3 {
+  font-size: 20pt;
+}
+
+body {
+  width: 315px;
+  height: 970px;
+  margin: 15px;
+  border-style: groove;
+  border-width: thin;
+  padding: 15px;
+  font-family: "Times New Roman", serif;
+}
+
+.top {
+  width: 300px;
+}
+
+.text {
+  width: 270px;
+  height: 385px;
+  border-style: groove;
+  border-width: thin;
+  padding: 15px;
+}
+
+ul {
+  list-style: none;
+  text-align: left;
+  margin: 0px;
+  padding: 0px;
+}
